@@ -7,3 +7,7 @@
 [![license](https://img.shields.io/github/license/pydantic/pydantic-ai.svg?v)](https://github.com/pydantic/pydantic-ai/blob/main/LICENSE)
 
 A simple and sane way to build AI agents backed by LLM using all the Pydantic goodness give you.
+
+Definition of "agent" in Pydantic AI: A system prompt and a collection of tools.
+
+This is unlike autonomous AI agent that makes decision on your behalf or program with "agentic" behavior.
